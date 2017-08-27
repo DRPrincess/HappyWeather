@@ -1,12 +1,14 @@
 package com.dr.happyweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * 类描述：城市表
  * 作者  : duanrui
  * 时间  ：2017/8/24 0024
  */
 
-public class City {
+public class City extends DataSupport{
 
     private int id;
     private int provinceId;

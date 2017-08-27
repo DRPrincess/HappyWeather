@@ -5,7 +5,7 @@ import android.app.Application;
 import org.litepal.LitePal;
 
 /**
- * 类描述：
+ * 类描述: 自定义application
  * 作者  : duanrui
  * 时间  ：2017/8/24 0024
  */
